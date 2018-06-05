@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
    input varables:
    
-       Parameters: lamda, mu, and alpha  correspond the formula (2), (10), (12) in our MLG-LSC paper
+       Parameters: lamda, mu, and alpha  correspond to the formula (2), (10), (12) in our MLG-LSC paper
        
        Training data: X (n*d) is stored by rows and divided sequentially class by class
        
