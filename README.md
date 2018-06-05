@@ -18,13 +18,13 @@ ________________________________________________________________________________
        A_alpha: dragging (or metric) matrix for LSR error
 
 _________________________________________________________________________________________
------ * PACKING LIST * --------------------------------------------------------------------------
+----- * PACKING LIST * ------------------------------------------------------------------
 1. A demo script named 'MLG_LSC_Iris.m' is provided. It runs MLG-LSC on the Iris dataset. 
 2. 'CS_GeometricMean.m' is used for fast computation of Riemannian geodesics for SPD matrices implemented by  Cholesky-Schur method. 
 3. 'Iris.mat' is the preprocessed dataset for demo.
 4. 'readme.txt' file.
 ________________________________________________________________________________________
----- * Attention* -----------------------------------------------------------------------
+---- * Attention* --------------------------------------------------------------------
 This package is free for academic usage. You can run it at your own risk. For other purposes, please contact Prof. Songcan Chen (s.chen@nuaa.edu.cn).
 
 This package was developed by Chuanxing Geng. For any problem concerning the codes, please feel free to contact Mr. Geng (gengchuanxing@126.com or gengchuanxing@nuaa.edu.cn).
