@@ -30,7 +30,7 @@ ________________________________________________________________________________
 1. A demo script named 'MLG_LSC_Iris.m' is provided. It runs MLG-LSC on the Iris dataset. 
 2. 'CS_GeometricMean.m' is used for fast computation of Riemannian geodesics for SPD matrices implemented by  Cholesky-Schur method. 
 3. 'Iris.mat' is the preprocessed dataset for demo.
-4. 'readme.txt' file.
+4. 'README.md' file.
 ________________________________________________________________________________________
 ---- * Attention* -----------------------------------------------------------------------
 
