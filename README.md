@@ -1,3 +1,4 @@
+
 # MLG-LSC
 Metric learning-guided least squares classifier for multicategory classification
 ============================MLG-LSC Matlab Code============================
@@ -24,7 +25,8 @@ ________________________________________________________________________________
 3. 'Iris.mat' is the preprocessed dataset for demo.
 4. 'readme.txt' file.
 ________________________________________________________________________________________
----- * Attention* --------------------------------------------------------------------
+---- * Attention* -----------------------------------------------------------------------
+
 This package is free for academic usage. You can run it at your own risk. For other purposes, please contact Prof. Songcan Chen (s.chen@nuaa.edu.cn).
 
 This package was developed by Chuanxing Geng. For any problem concerning the codes, please feel free to contact Mr. Geng (gengchuanxing@126.com or gengchuanxing@nuaa.edu.cn).
