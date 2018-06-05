@@ -3,6 +3,7 @@ Metric learning-guided least squares classifier for multicategory classification
 ============================MLG-LSC Matlab Code============================
 
 This package contains the source code for the following paper:
+
     Chuanxing Geng and Songcan Chen.  Metric Learning-Guided Least Squares Classifier Learning. TNNLS 2018.
 ______________________________________________________________________________________
 ---- * Manual of MLG-LSC * ----------------------------------------------------------------------
